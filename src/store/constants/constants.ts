@@ -1,0 +1,23 @@
+export const GET_MENU = 'GET_MENU';
+
+export const CHANGE_CURRENCY = 'CHANGE_CURRENCY';
+
+export const ADD_PIZZA = 'ADD_PIZZA';
+
+export const CLEAR_BASKET = 'CLEAR_BASKET';
+
+export const CHANGE_PIZZA_COUNT = 'CHANGE_PIZZA_COUNT';
+
+export const DELETE_PIZZA = 'DELETE_PIZZA';
+
+export const SHOW_ORDER_MESSAGE = 'SHOW_ORDER_MESSAGE';
+
+export const CLOSE_ORDER_MESSAGE = 'CLOSE_ORDER_MESSAGE';
+
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+
+export const LOGIN_FAILED = 'LOGIN_FAILED';
+
+export const LOGOUT = 'LOGOUT';
+
+export const GET_USER_ORDERS = 'GET_USER_ORDERS';
