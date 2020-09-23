@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A small pizza restaurant project. Client stack: React, Redux + Redux Thunk, Typescript; backend stack: Node.js (Express) + Mongoose
 
 ## Available Scripts
 
